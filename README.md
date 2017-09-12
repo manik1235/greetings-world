@@ -1,5 +1,4 @@
 # greetings-world
-A repo to try the tutorial
 
 I think this is really starting to make sense!
 
